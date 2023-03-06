@@ -22,6 +22,5 @@ Sorry, due to the lack of time I could invest in this task, I was not able to do
 
 _Scope for Improvement_
 
-If had more time, I would have done the EDA part. Also, I would have improved upon my scaping code so that it would be more readble and 
-easily understandable. Moreover, I would have tried to make the scraping script more generalized, that is, making it more flexible to fetch 
+If had more time, I would have done the EDA part. I also could not verfiy the data I scraped properly. Also, I would have improved upon my scraping code so that it would be more readble and easily understandable. Moreover, I would have tried to make the scraping script more generalized, that is, making it more flexible to fetch 
 the data for any month of any year as per requirement. 
